@@ -1,0 +1,12 @@
+.env
+main.py
+deploy.bat
+connect.bat
+fix_known_hosts.bat
+initial_server_setup.bat
+setup.sh
+Dockerfile
+docker-compose.yml
+new_ssh_key
+reports
+uploads
