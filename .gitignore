@@ -11,3 +11,5 @@ new_ssh_key
 reports
 uploads
 antispam.py
+test_payment.py
+test_kinguin.py
