@@ -13,3 +13,5 @@ uploads
 antispam.py
 test_payment.py
 test_kinguin.py
+test_buy.py
+test_buy_2.py
